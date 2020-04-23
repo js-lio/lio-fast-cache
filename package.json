@@ -1,0 +1,29 @@
+{
+  "name": "lio-fast-cache",
+  "version": "0.0.1",
+  "description": "短小精悍的前端缓存工具，防止内存“测漏”",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-lio/lio-fast-cache.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/js-lio/lio-fast-cache/issues"
+  },
+  "homepage": "https://github.com/js-lio/lio-fast-cache#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
