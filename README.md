@@ -12,6 +12,13 @@
     npm run example
     
     
+    生成文档
+    npm install gitbook-cli -g
+    执行gitbook init，会看到SUMMARY.md的各个文件都被创建了
+    执行gitbook build转换成html
+
+    
+    
 # lio-fast-cache
     短小精悍的前端缓存工具，防止内存“测漏”
     
@@ -22,8 +29,8 @@
 ## 快速使用
     简单接入的文档
     
-- 使用文档
-- 二次开发文档
+- [使用文档](./doc/use/README.md)
+- [二次开发文档](./doc/dev/README.md)
 
 ## 交流 & 提问
     https://github.com/js-lio/lio-fast-cache/issues

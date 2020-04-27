@@ -6,5 +6,11 @@
 </head>
 <body>
 <script src="../release/bundle.js"></script>
+<script>
+    var FC = window.FastCache;
+    var cache = new FC();
+    cache.set('a', 100)
+    alert(cache.get('a'))
+</script>
 </body>
 </html>
