@@ -16,7 +16,9 @@
     npm install gitbook-cli -g
     执行gitbook init，会看到SUMMARY.md的各个文件都被创建了
     执行gitbook build转换成html
-
+    
+    创建标签：git tag -a 'v0.0.1' -m "第一版本"
+    提交标签：git push origin v0.0.1
     
     
 # lio-fast-cache
