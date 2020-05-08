@@ -20,6 +20,9 @@
     创建标签：git tag -a 'v0.0.1' -m "第一版本"
     提交标签：git push origin v0.0.1
     
+    提交到npm上，能让使用者通过npm进行安装
+    首先运行npm add user 和 npm login
+    最后npm publish .
     
 # lio-fast-cache
     短小精悍的前端缓存工具，防止内存“测漏”
@@ -27,6 +30,8 @@
 ## 简介
 
 ## 安装下载
+
+- 安装下载 https://github.com/js-lio/lio-fast-cache/releases
 
 ## 快速使用
     简单接入的文档
