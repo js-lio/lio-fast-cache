@@ -1,3 +1,5 @@
+6-3
+
 # 项目介绍
     视频：https://www.imooc.com/video/17315
     文档：https://www.imooc.com/article/28240
@@ -21,7 +23,7 @@
     提交标签：git push origin v0.0.1
     
     提交到npm上，能让使用者通过npm进行安装
-    首先运行npm add user 和 npm login
+    首先运行npm adduser 和 npm login
     最后npm publish .
     
 # lio-fast-cache
@@ -32,6 +34,8 @@
 ## 安装下载
 
 - 安装下载 https://github.com/js-lio/lio-fast-cache/releases
+- npm i lio-fast-cache
+- CDN http://unpkg.com/lio-cache-npm/release/bundle.js
 
 ## 快速使用
     简单接入的文档
