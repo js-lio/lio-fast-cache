@@ -26,14 +26,15 @@
     首先运行npm adduser 和 npm login
     最后npm publish .
     
+    
     升级项目
     新建dev分支并切换到当前分支：git checkout -b dev
     查看当前所在的分支：git branch
     到package.json把版本改掉
     
-    把dev的分支合并到master，首先先切换到master分支上
+    首先先切换到master分支上,把dev的分支合并到master
     切换分支：git checkout master
-    git merge dev
+    把dev的分支合并到master：git merge dev
     
     
 # lio-fast-cache
