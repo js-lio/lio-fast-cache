@@ -31,6 +31,10 @@
     查看当前所在的分支：git branch
     到package.json把版本改掉
     
+    把dev的分支合并到master，首先先切换到master分支上
+    切换分支：git checkout master
+    git merge dev
+    
     
 # lio-fast-cache
     短小精悍的前端缓存工具，防止内存“测漏”
