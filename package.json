@@ -1,6 +1,6 @@
 {
   "name": "lio-fast-cache",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "短小精悍的前端缓存工具，防止内存“测漏”",
   "main": "src/index.js",
   "scripts": {

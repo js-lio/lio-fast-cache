@@ -27,7 +27,9 @@
     最后npm publish .
     
     升级项目
-    git checkout -b dev
+    新建dev分支并切换到当前分支：git checkout -b dev
+    查看当前所在的分支：git branch
+    到package.json把版本改掉
     
     
 # lio-fast-cache
