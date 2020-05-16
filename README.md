@@ -26,6 +26,10 @@
     首先运行npm adduser 和 npm login
     最后npm publish .
     
+    升级项目
+    git checkout -b dev
+    
+    
 # lio-fast-cache
     短小精悍的前端缓存工具，防止内存“测漏”
     
